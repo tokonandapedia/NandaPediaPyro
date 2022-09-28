@@ -1,9 +1,9 @@
 <h1 align="center"> 
-   🎈 Cilik-Ubot 🎈
+   🎈 NandaPedia-PyBot 🎈
 </h1>
 
 <p align="center">
-  <a href="#"><img src="https://telegra.ph/file/d20fc177ac0cb0136d942.jpg" width="300" height="300"></a> </br>
+  <a href="#"><img src="https://telegra.ph/file/8d9d5ec998234c4e43bca.jpg" width="300" height="300"></a> </br>
 </p>
 
 ## Deploy With Heroku 💌
@@ -14,7 +14,7 @@
 ### Generate  String Sessions
 
 <p align="left">
-<a href="https://t.me/StringCilik_Bot"><img src="https://img.shields.io/badge/Generate%20String-blue?style=for-the-badge&logo=telegram" width="175""/</a>  </p>
+<a href="https://t.me/NandaPediaStringBot"><img src="https://img.shields.io/badge/Generate%20String-blue?style=for-the-badge&logo=telegram" width="175""/</a>  </p>
 
 ## Config Vars 📑
 
@@ -38,5 +38,5 @@
 This repository is license under [GPL-3 License](https://github.com/grey423/Cilik-Ubot/blob/master/LICENSE)
 <p align="Left">
   </br>
-  <b>Copyright (c) 2022 - grey423 | Cilik-Ubot</b>
+  <b>Copyright (c) 2022 - NandaPedia | NandaPedia-PyBot</b>
 </p>
